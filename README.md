@@ -14,6 +14,7 @@ sudo ./gamedev.sh
 * Inkscape
 * Gimp (com suporte para imagens para Web)
 * Lmms
+* Sublime Text
 * Pikopixel
 * RpgBoss
 
