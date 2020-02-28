@@ -4,6 +4,7 @@
 sudo apt update && sudo apt upgrade -y
 
 #Preparando o ambiente
+mkdir /home/$USER/Programas
 clear
 
 # Programas gráficos
