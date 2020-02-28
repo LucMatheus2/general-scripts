@@ -16,3 +16,6 @@ sudo ./gamedev.sh
 * Lmms
 * Pikopixel
 * RpgBoss
+
+### Ambiente Utilizado
+Linux Mint 19.3 (Tricia)
